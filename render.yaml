@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: luffy-panel
+    name: Ali_savak
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
